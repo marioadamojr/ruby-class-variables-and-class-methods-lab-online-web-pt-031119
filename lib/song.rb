@@ -19,7 +19,7 @@ class Song
   end
 
   def self.artists
-    artists_array = {}
+    artists.uniq
   end
 
 end
