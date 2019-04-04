@@ -27,10 +27,11 @@ class Song
   end
 
   def self.genre_count
+    genre_array = {}
   end
 
   def self.artist_count
+    artist_array = {}
   end
-
 end
 # binding.pry
