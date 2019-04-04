@@ -12,6 +12,7 @@ class Song
     @artist = song_artist
     @@artists << song_artist
     @genre = song_genre
+    @@genres[:genre] = song_genre
   end
 
   def self.song_count
