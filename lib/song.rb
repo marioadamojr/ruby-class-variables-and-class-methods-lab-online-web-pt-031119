@@ -42,4 +42,5 @@ class Song
     artist_hash
   end
 end
-binding.pry
+# binding.pry
+# http://jerodsanto.net/2013/10/ruby-quick-tip-easily-count-occurrences-of-array-elements/ source for above
